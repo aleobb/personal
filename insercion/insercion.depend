@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491420803 source:c:\users\lucas\desktop\insercion\func.c
+
+1491421797 source:c:\users\lucas\desktop\insercion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1491420268 c:\users\lucas\desktop\insercion\func.h
+
