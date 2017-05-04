@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493853439 source:/home/alumno/Escritorio/parcialRedSocial/comentario.c
+
+1493852217 source:/home/alumno/Escritorio/parcialRedSocial/funciones.c
+
+1493852447 source:/home/alumno/Escritorio/parcialRedSocial/usuario.c
+
+1493853053 source:/home/alumno/Escritorio/parcialRedSocial/main.c
+	<stdio.h>
+	<stdlib.h>
+
